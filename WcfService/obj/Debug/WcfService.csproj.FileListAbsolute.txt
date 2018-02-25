@@ -1,0 +1,34 @@
+c:\users\440z3\documents\visual studio 2013\Projects\WcfService\WcfService\bin\WcfService.dll.config
+c:\users\440z3\documents\visual studio 2013\Projects\WcfService\WcfService\bin\WcfService.dll
+c:\users\440z3\documents\visual studio 2013\Projects\WcfService\WcfService\bin\WcfService.pdb
+c:\users\440z3\documents\visual studio 2013\Projects\WcfService\WcfService\obj\Debug\WcfService.dll
+c:\users\440z3\documents\visual studio 2013\Projects\WcfService\WcfService\obj\Debug\WcfService.pdb
+C:\Users\440Z3\documents\visual studio 2013\Projects\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\obj\Debug\RdlCompile.cache
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\obj\Debug\RdlCompile.compiled
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\WcfService.dll.config
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\WcfService.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\WcfService.pdb
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\Npgsql.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\Npgsql.xml
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\obj\Debug\WcfService.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\WcfService\WcfService\obj\Debug\WcfService.pdb
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\WcfService.dll.config
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\WcfService.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\WcfService.pdb
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\Npgsql.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\Npgsql.xml
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\obj\Debug\RdlCompile.cache
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\obj\Debug\RdlCompile.compiled
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\obj\Debug\WcfService.dll
+C:\Users\440Z2\Documents\Visual Studio 2013\Projects\web service pdf\WcfService\obj\Debug\WcfService.pdb
